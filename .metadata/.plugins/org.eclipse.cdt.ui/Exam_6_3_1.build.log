@@ -1,0 +1,10 @@
+17:48:06 **** Incremental Build of configuration Debug for project Exam_6_3_1 ****
+make -j8 all 
+arm-none-eabi-size   Exam_6_3_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5816	     20	   1636	   7472	   1d30	Exam_6_3_1.elf
+Finished building: default.size.stdout
+ 
+
+17:48:06 Build Finished. 0 errors, 0 warnings. (took 236ms)
+
